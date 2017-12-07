@@ -1,0 +1,66 @@
+tcp_bw:
+    bw        =  58.1 MB/sec
+    msg_size  =    64 bytes
+tcp_bw:
+    bw        =  75.3 MB/sec
+    msg_size  =   128 bytes
+tcp_bw:
+    bw        =  74.2 MB/sec
+    msg_size  =   256 bytes
+tcp_bw:
+    bw        =  83.4 MB/sec
+    msg_size  =   512 bytes
+tcp_bw:
+    bw        =  93.4 MB/sec
+    msg_size  =     1 KiB (1,024)
+tcp_bw:
+    bw        =  84.4 MB/sec
+    msg_size  =     2 KiB (2,048)
+tcp_bw:
+    bw        =  79 MB/sec
+    msg_size  =   4 KiB (4,096)
+tcp_bw:
+    bw        =  85 MB/sec
+    msg_size  =   8 KiB (8,192)
+tcp_bw:
+    bw        =  76.3 MB/sec
+    msg_size  =    16 KiB (16,384)
+tcp_bw:
+    bw        =  78.3 MB/sec
+    msg_size  =    32 KiB (32,768)
+tcp_bw:
+    bw        =  71.6 MB/sec
+    msg_size  =    64 KiB (65,536)
+tcp_lat:
+    latency   =  194 us
+    msg_size  =   64 bytes
+tcp_lat:
+    latency   =  189 us
+    msg_size  =  128 bytes
+tcp_lat:
+    latency   =  188 us
+    msg_size  =  256 bytes
+tcp_lat:
+    latency   =  181 us
+    msg_size  =  512 bytes
+tcp_lat:
+    latency   =  173 us
+    msg_size  =    1 KiB (1,024)
+tcp_lat:
+    latency   =  223 us
+    msg_size  =    2 KiB (2,048)
+tcp_lat:
+    latency   =  272 us
+    msg_size  =    4 KiB (4,096)
+tcp_lat:
+    latency   =  321 us
+    msg_size  =    8 KiB (8,192)
+tcp_lat:
+    latency   =  422 us
+    msg_size  =   16 KiB (16,384)
+tcp_lat:
+    latency   =  639 us
+    msg_size  =   32 KiB (32,768)
+tcp_lat:
+    latency   =  1.08 ms
+    msg_size  =    64 KiB (65,536)
